@@ -16,6 +16,8 @@ sugarcrmのビルドと起動
 * docker-compose build
 * docker-compose up
 
+* 起動後に、webコンテナへアクセス
+ * docker exec -it web bash
 
 sugarcrmへアクセス
 ----
@@ -33,4 +35,5 @@ sugarcrmインストール
  * root
 * password
  * root
+
 
